@@ -7,7 +7,7 @@ Algorithms will be measured by the system time as well as user percieved time to
 ## Algorithms
 
 -   [x] [Bubble Sort](./internal/algorithms/bubble_sort.go)
--   [] [Selection Sort]()
+-   [ ] [Selection Sort]()
 
 ## Features
 
@@ -20,6 +20,8 @@ Algorithms will be measured by the system time as well as user percieved time to
 ```bash
 go install github.com/b0sc/sortRace@latest
 ```
+
+It requires you to have `go` installed in your system, if you do not have it installed, you can download it from [here](https://github.com/b0sc/sortRace/releases).
 
 ## Development
 
@@ -42,3 +44,8 @@ Please refer to our [Code of Conduct](./CODE_OF_CONDUCT.md) for more information
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](./LICENSE) file for details.
+
+<!--
+references:
+https://youtu.be/N4JVT3eVBP8?si=43HGVxupM8trzD3H
+ -->
